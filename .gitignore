@@ -1,4 +1,4 @@
 __pycache__/
 venv/
 .coverage
-coverage.xml/
+coverage.xml
